@@ -1,4 +1,4 @@
-Intellect
+tttIntellect
 =========
 
 :Info: Intellect is a Domain-specific language and Rules Engine for Python.
